@@ -14,7 +14,7 @@ An interactive sales dashboard built using **Looker Studio (Google Data Studio)*
 - Google Sheets (Data Source)
 
 ## 📎 Project Snapshot
-![Dashboard_image](images/FLW_Online_Sales,png)
+![Dashboard_image](images/FLW_Online_Sales.png)
 
 ## 🔗 Live Dashboard
 [View Live Dashboard](LOOKER_STUDIO_LINK_HERE)
